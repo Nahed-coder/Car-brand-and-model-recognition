@@ -1,0 +1,57 @@
+body {
+    background-image: url('../img/bcgg5.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main {
+    margin: 0 auto;
+    background-color: #b8c1ec;
+}
+
+#headline {
+    background-color: #00185c;
+    height: 80px;
+}
+
+#upload_msg {
+    color: #2a28acc0;
+    background-color: #9777c2;
+    font-family: 'Cabin', sans-serif;
+}
+
+#upload_btn {
+    color: #b8c1ec;
+    background-color: purple;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Lusitana', serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#process_btn {
+    color: #b8c1ec;
+    background-color: purple;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Lusitana', serif;
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+#processed_img_card {
+    background-color: #00185c;
+    color: #eebbc3
+}
+
+#original_img {
+    border: 4px solid #00185c;
+}
+
+#processed_img {
+    border: 4px solid #00185c;
+}
+
+#alert_msg {
+
+}
